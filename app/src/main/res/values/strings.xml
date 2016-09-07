@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InserSortHelpFile</string>
+    <string name="action_settings">Settings</string>
+    <string name="stacksort">StackSort</string>
+    <string name="help">Help</string>
+    <string name="help_text_information_here">Help text information here</string>
+    <string name="for_each_variable_in_your_array_please_enter_a_whole_number_integer_with_the_value_of_0_to_9_in_the_text_field_as_you_input_each_appropriate_number_the_value_will_be_displayed_on_the_screen_your_array_must_contain_at_least_2_but_no_more_than_8_variables_when_you_are_satisfied_with_your_array_press_the_sort_button_to_view_your_results">For each variable in your array, please enter a whole number integer with the value of 0 to 9 in the text field. As you input each appropriate number, the value will be displayed on the screen. Your array must contain at least 2, but no more than 8 variables. When you are satisfied with your array, press the Sort button to view your results.</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="back">Back</string>
+</resources>
